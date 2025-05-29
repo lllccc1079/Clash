@@ -25,7 +25,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 
 ## 🤝 欢迎投稿  
 ### 如何贡献？  
-1. **发现新网站**：若你发现其他支持全局代理的网站，欢迎提交 [Issue](https://github.com/lllccc1079/Clash/issues/new) 或 [Pull Request](https://github.com/lllccc1079/Clash/pulls)。  
+1. **发现新网站**：若你发现其他地区限制类的网站，欢迎提交 [Issue](https://github.com/lllccc1079/Clash/issues/new) 或 [Pull Request](https://github.com/lllccc1079/Clash/pulls)。  
 2. **反馈问题**：如遇网站无法访问或功能异常，请在 Issue 中说明「系统环境+问题描述」。  
 
 
