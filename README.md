@@ -12,7 +12,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 | 分类         | 网站名称                  | 官网链接                          | 说明                     |  
 |--------------|---------------------------|-----------------------------------|--------------------------|  
 | **AI 服务**  | OpenAI                    | [openai.com](https://openai.com)  | 顺畅访问 ChatGPT 及相关服务  |  
-| **AI 服务**  | OpenAI FM                 | openai.fm                         | 第三方 OpenAI 服务入口   |  
+| **AI 服务**  | OpenAI FM                 | [openai.fm](https://openai.fm)   | 第三方 OpenAI 服务入口   |  
 | **区块链** | B14G App                  | [app.b14g.xyz](https://app.b14g.xyz) | 解锁幸运地址活动           |  
 | **NFT 市场** | Magic Eden                | [magiceden.io](https://magiceden.io) | Solana 生态 NFT 交易平台 |  
 | **区块链**   | SparkScan                 | [sparkscan.io](https://sparkscan.io)   | 火花区块链浏览器             |  
