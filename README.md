@@ -33,8 +33,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 
 ## 📥 快速开始  
 1. **下载 Clash**：下载增强版本：  
-   - [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
-   - 其他平台请参考 [Clash 官方文档](https://clash.dev/guide/)。  
+   - [Clash for Windows](https://github.com/lllccc1079/Clash/releases)  
 2. **直接启动系统代理即可**
 
 
@@ -42,3 +41,6 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 - **合规使用**：请遵守当地网络法规，禁止用于非法用途。  
 - **更新机制**：规则库会定期自动维护。
 - **版本说明**：目前仅支持在Win上来运行，其他版本等待开发。
+
+## 白嫖怪资源分享
+[TG资源分享群](https://t.me/baipiaoge888)  
