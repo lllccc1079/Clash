@@ -35,6 +35,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 1. **下载 Clash**：下载增强版本：  
    - [Clash for Windows-增强版](https://github.com/lllccc1079/Clash/releases) 
 2. **直接启动系统代理即可**
+3. **可配合任何机场使用**
 
 
 ## ⚠️ 注意事项  
