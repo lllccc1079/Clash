@@ -51,7 +51,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 <img src="https://github.com/user-attachments/assets/25ca74b6-e419-4333-be8a-bc4649e1f5e4" 
      alt="" 
      width="10%"> 
-**感谢大家的⭐️，花费一晚上给大家赶出来的一个小工具，准确度还算可以，不知道大家会不会用得上。**
+**感谢大家的⭐️⭐️，花费一晚上给大家赶出来的一个小工具，准确度还算可以，不知道大家会不会用得上。**
 </br>
 <img src="https://github.com/user-attachments/assets/63543ff7-737e-4281-b873-208245b2c85e" 
      alt="" 
