@@ -50,10 +50,11 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 ## 📥 B14g幸运地址工具
 <img src="https://github.com/user-attachments/assets/25ca74b6-e419-4333-be8a-bc4649e1f5e4" 
      alt="" 
-     width="10%"> 
-**感谢大家的⭐️⭐️，花费一晚上给大家赶出来的一个小工具，准确度还算可以，不知道大家会不会用得上。**[这里下载](https://raw.githubusercontent.com/lllccc1079/Clash/refs/heads/main/B14g%E5%B9%B8%E8%BF%90%E5%9C%B0%E5%9D%80%E5%B7%A5%E5%85%B71.2.zip)**或上方仓库下载**
+     width="10%"> </br>
+**感谢大家的⭐️⭐️，花费一晚上给大家赶出来的一个小工具，准确度还算可以，不知道大家会不会用得上。**
 </br>
-**1.2版本修复了大小写混乱的问题，疏忽的BUG**
+> **1.2版本修复了大小写混乱的问题，疏忽的BUG**</br>
+> [这里下载](https://raw.githubusercontent.com/lllccc1079/Clash/refs/heads/main/B14g%E5%B9%B8%E8%BF%90%E5%9C%B0%E5%9D%80%E5%B7%A5%E5%85%B71.2.zip)**或上方仓库下载**
 </br>
 <img src="https://github.com/user-attachments/assets/63543ff7-737e-4281-b873-208245b2c85e" 
      alt="" 
