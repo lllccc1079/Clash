@@ -14,16 +14,17 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 |--------------|---------------------------|-----------------------------------|--------------------------|  
 | **AI 服务**  | OpenAI                    | [openai.com](https://openai.com)  | 顺畅访问 ChatGPT 及相关服务  |  
 | **AI 服务**  | OpenAI FM                 | [openai.fm](https://openai.fm)   | 第三方 OpenAI 服务入口   |  
-| **区块链** | B14G App                  | [app.b14g.xyz](https://app.b14g.xyz) | 解锁幸运地址活动     [B14g幸运地址工具](https://github.com/lllccc1079/Clash?tab=readme-ov-file#-b14g%E5%B9%B8%E8%BF%90%E5%9C%B0%E5%9D%80%E5%B7%A5%E5%85%B7)      |  
-| **NFT 市场** | Magic Eden                | [magiceden.io](https://magiceden.io) | 魔法伊甸园,全生态 NFT 交易平台 |  
+| **NFT 市场** | Magic Eden -魔法伊甸园   | [magiceden.io](https://magiceden.io) | 全生态 NFT 交易平台 |  
+| **NFT 市场** | OpenSea                   | [opensea.io](https://opensea.io)    | 全球最大 NFT 交易平台    | 
+| **区块链** | B14g - 降低 BTC 持有的资本壁垒  | [app.b14g.xyz](https://app.b14g.xyz) | 解锁幸运地址活动     [B14g幸运地址工具](https://github.com/lllccc1079/Clash?tab=readme-ov-file#-b14g%E5%B9%B8%E8%BF%90%E5%9C%B0%E5%9D%80%E5%B7%A5%E5%85%B7)   
 | **区块链**   | SparkScan                 | [sparkscan.io](https://sparkscan.io)   | 火花区块链浏览器             |  
-| **NFT 市场** | OpenSea                   | [opensea.io](https://opensea.io)    | 全球最大 NFT 交易平台    |  
 | **区块链**   | Alkanes ID Club           | [alkanes.idclub.io](https://alkanes.idclub.io) | 解锁alkanes烷烃协议           |  
 | **区块链**   | Minima Global             | [minima.global](https://minima.global)   | 解锁嵌入式minima网络         |  
-| **游戏平台** | Core Games                | [coregames.com](https://coregames.com)  | 跨平台游戏开发平台       |  
-| **科技媒体** | The Verge                 | [theverge.com](https://theverge.com)  | 科技资讯与评测           |  
 | **区块链** | Nebx                 | [nebx.io](https://nebx.io/)  | XCOIN代币-解决谷歌验证码频繁           |  
 | **区块链** | BitEqual-让比特币再次平等     | [bitequal.org](https://www.bitequal.org)  |解决区域封锁-购买矿机挖BET  |  
+| **游戏平台** | Core Games                | [coregames.com](https://coregames.com)  | 跨平台游戏开发平台       |  
+| **科技媒体** | The Verge                 | [theverge.com](https://theverge.com)  | 科技资讯与评测           |  
+
 
 ## 🤝 欢迎投稿  
 ### 如何贡献？  
