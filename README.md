@@ -22,7 +22,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 | **区块链**   | Minima Global             | [minima.global](https://minima.global)   | 解锁嵌入式minima网络         |  
 | **游戏平台** | Core Games                | [coregames.com](https://coregames.com)  | 跨平台游戏开发平台       |  
 | **科技媒体** | The Verge                 | [theverge.com](https://theverge.com)  | 科技资讯与评测           |  
-| **区块链** | Nebx                 | [nebx.io](https://nebx.io/)  | EBX2.0，XCOIN代币           |  
+| **区块链** | Nebx                 | [nebx.io](https://nebx.io/)  | XCOIN代币-解决谷歌验证码频繁           |  
 
 ## 🤝 欢迎投稿  
 ### 如何贡献？  
