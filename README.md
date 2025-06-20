@@ -19,7 +19,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 | **区块链** | B14g - 降低 BTC 持有的资本壁垒  | [app.b14g.xyz](https://app.b14g.xyz) | 解锁幸运地址活动     [B14g幸运地址工具](https://github.com/lllccc1079/Clash?tab=readme-ov-file#-b14g%E5%B9%B8%E8%BF%90%E5%9C%B0%E5%9D%80%E5%B7%A5%E5%85%B7)   
 | **区块链**   | SparkScan                 | [sparkscan.io](https://sparkscan.io)   | 火花区块链浏览器             |  
 | **区块链**   | FSPK退款索赔          | [fspk.xyz](https://fspk.xyz/)  | 解锁FSPK代币索赔退款申请             |  
-| **区块链**   | Alkanes ID Club           | [alkanes.idclub.io](https://alkanes.idclub.io) | 解锁alkanes烷烃协议           |  
+| **区块链**   | Alkanes ID Club           | [alkanes.idclub.io](https://alkanes.idclub.io) | 烷烃协议-解决提示网络错误          |  
 | **区块链**   | Minima Global             | [minima.global](https://minima.global)   | 解锁嵌入式minima网络         |  
 | **区块链** | Nebx                 | [nebx.io](https://nebx.io/)  | XCOIN代币-解决谷歌验证码频繁           |  
 | **区块链** | BitEqual-让比特币再次平等     | [bitequal.org](https://www.bitequal.org)  |解决区域封锁-购买矿机挖BET  |  
