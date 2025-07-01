@@ -21,7 +21,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 | **区块链**   | FSPK退款索赔          | [fspk.xyz](https://fspk.xyz/)  | 解锁FSPK代币索赔退款申请             |  
 | **区块链**   | Alkanes ID Club           | [alkanes.idclub.io](https://alkanes.idclub.io) | 烷烃协议-解决提示网络错误          |  
 | **区块链**   | Minima Global             | [minima.global](https://minima.global)   | 解锁嵌入式minima网络         |  
-| **区块链** | Nebx                 | [nebx.io](https://nebx.io/)  | XCOIN代币-解决谷歌验证码频繁           |  
+| **区块链** | Nebx                 | [nebx.io](https://nebx.io/)  | 空投XCOIN代币-解决谷歌验证码频繁 [Nebx](https://github.com/lllccc1079/Clash/blob/main/README.md#-nebx-%E5%81%9A%E4%BB%BB%E5%8A%A1%E5%BE%97%E7%A9%BA%E6%8A%95xcoin%E4%BB%A3%E5%B8%81)    |  
 | **区块链** | BitEqual-让比特币再次平等     | [bitequal.org](https://www.bitequal.org)  |可以低价购买4090矿机 [BitEqual](https://github.com/lllccc1079/Clash?tab=readme-ov-file#-bitequal-%E8%AE%A9%E6%AF%94%E7%89%B9%E5%B8%81%E5%86%8D%E6%AC%A1%E5%B9%B3%E7%AD%89)  |  
 | **游戏平台** | Core Games                | [coregames.com](https://coregames.com)  | 跨平台游戏开发平台       |  
 | **科技媒体** | The Verge                 | [theverge.com](https://theverge.com)  | 科技资讯与评测           |  
