@@ -85,7 +85,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 **简单看了下，前期入的话可以赚到钱，但是现如今币价每日跌，玩的人多了算力逐步减少，如今币价从12刀跌倒0.05刀，中期和后期入矿机的都很难回本了。我早期入的但投入不多确实赚，什么活动凡是早期投入，吃肉较多。**
 
 ## 🤝 如果觉得此工具对您有用的话，欢迎各位老板打赏，打赏一分也是爱
-
+联系我：[@LiyizeZE](https://t.me/LiyizeZE)
 ![WeChatQR](https://github.com/user-attachments/assets/accbd893-a023-4aa0-a5bc-9585c01ec08c)
 ![AliPayQR](https://github.com/user-attachments/assets/c1518eeb-c115-4de3-b62c-c2f334c8949d)
 
