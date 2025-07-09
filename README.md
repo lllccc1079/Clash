@@ -16,7 +16,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 | **AI 服务**  | OpenAI FM                 | [openai.fm](https://openai.fm)   | 第三方 OpenAI 服务入口   |  
 | **NFT 市场** | Magic Eden -魔法伊甸园   | [magiceden.io](https://magiceden.io) | 全生态 NFT 交易平台 |  
 | **NFT 市场** | OpenSea                   | [opensea.io](https://opensea.io)    | 全球最大 NFT 交易平台    | 
-| **区块链** | B14g - 降低 BTC 持有的资本壁垒  | [app.b14g.xyz](https://app.b14g.xyz) | 解锁幸运地址活动     [B14g幸运地址工具](https://github.com/lllccc1079/Clash?tab=readme-ov-file#-b14g%E5%B9%B8%E8%BF%90%E5%9C%B0%E5%9D%80%E5%B7%A5%E5%85%B7)   
+| **区块链** | B14g - CORE质押  | [app.b14g.xyz](https://app.b14g.xyz) | 解锁幸运地址活动     [B14g幸运地址工具](https://github.com/lllccc1079/Clash?tab=readme-ov-file#-b14g%E5%B9%B8%E8%BF%90%E5%9C%B0%E5%9D%80%E5%B7%A5%E5%85%B7)   
 | **区块链**   | SparkScan                 | [sparkscan.io](https://sparkscan.io)   | 火花区块链浏览器             |  
 | **区块链**   | FSPK退款索赔          | [fspk.xyz](https://fspk.xyz/)  | 解锁FSPK代币索赔退款申请             |  
 | **区块链**   | Alkanes ID Club           | [alkanes.idclub.io](https://alkanes.idclub.io) | 烷烃协议-解决提示网络错误          |  
