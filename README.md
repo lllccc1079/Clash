@@ -61,7 +61,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 **感谢大家的⭐️⭐️，花费一晚上给大家赶出来的一个小工具，准确度还算可以，不知道大家会不会用得上。**
 </br>
 > **1.2版本修复了大小写混乱的问题，疏忽的BUG**</br>
-> [这里下载](https://123-184-221-24.pd1.cjjd19.com:30443/download-cdn.123295.com/123-569/c215f833/1818394683-0/c215f833c456dc6bb01b9c663e37a639/c-m86?v=5&t=1752139951&s=17521399510766cd65434c66d1661575c01becd759&r=GGT3FR&bzc=2&bzs=313831383339343638333a333434343831313a363637313033353a30&bzp=0&bi=694075365&filename=B14g%E5%B9%B8%E8%BF%90%E5%9C%B0%E5%9D%80%E5%B7%A5%E5%85%B71.2.zip&x-mf-biz-cid=8687731c-4b05-4d18-9bd5-9df5c7766c7b-47df1e&auto_redirect=0&cache_type=1&ndcp=1&xmfcid=bdffce85-88dc-410b-a9b2-4e75509cd93a9478eae86e8)**或上方仓库下载**
+> [这里下载](https://lz.qaiu.top/parser?url=https://www.123865.com/s/2sZ3jv-XEP4&pwd=nlnU)**或上方仓库下载**
 </br>
 <img src="https://github.com/user-attachments/assets/63543ff7-737e-4281-b873-208245b2c85e" 
      alt="" 
@@ -73,7 +73,7 @@ Clash 增强版是基于 Clash 的增强代理配置，针对**地区限制类�
 > **感谢支持！做了一个批量邀请的工具供大家使用**</br>
 > **谷歌验证码打码可以使用这个打码，将密钥填进去就能用了**</br>
 [https://dashboard.ez-captcha.com](https://dashboard.ez-captcha.com)</br>
-> [下载](https://123-184-221-25.pd1.cjjd19.com:30443/download-cdn.123295.com/123-20/8da298aa/1818394683-0/8da298aaad94ef28ee5bc9c2845a5c14/c-m86?v=5&t=1752139929&s=1752139929181524cdb3115bca486f77147cd27c83&r=YDFVGE&bzc=2&bzs=313831383339343638333a333434343831303a363537323834353a30&bzp=0&bi=694075365&filename=Nebx%E9%82%80%E8%AF%B7%E5%B7%A5%E5%85%B7.zip&x-mf-biz-cid=edc0d271-4ea2-4193-b634-e08bf502b06e-47df1e&auto_redirect=0&cache_type=1&ndcp=1&xmfcid=00c033bd-b0a8-421a-8061-abbb244df6199578eae86e8)
+> [下载](https://lz.qaiu.top/parser?url=https://www.123865.com/s/2sZ3jv-PEP4&pwd=S85o)
 </br>
 <img src="https://github.com/user-attachments/assets/d7343d2b-00b8-4dda-bfc2-2fde5953e8a0" 
      alt="" 
